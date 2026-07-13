@@ -194,7 +194,7 @@ This repository is provided as a portfolio showcase and project demonstration.
 **Oshanda Geethanjana**  
 Full Stack Developer · Founder of WhiteCoder
 
-[Portfolio](https://oshanda.com) · [GitHub](https://github.com/oshandapc) · [Email](mailto:oshanda@whitecoder.online) · [WhatsApp](https://wa.me/94788778100)
+[Portfolio](https://oshanda.com) · [GitHub](https://github.com/oshandageethanjana) · [Email](mailto:hello@oshanda.com) · [WhatsApp](https://wa.me/94788778100)
 
 <br />
 
